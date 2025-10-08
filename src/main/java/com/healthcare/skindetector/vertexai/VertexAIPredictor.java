@@ -18,9 +18,9 @@ import com.google.protobuf.Value;
 public class VertexAIPredictor {
 
     // Set your actual Vertex AI details here
-    private static final String PROJECT_ID = "ace-bucksaw-469016-v2";
+    private static final String PROJECT_ID = "YOURID";
     private static final String LOCATION = "us-central1";
-    private static final String ENDPOINT_ID = "7314543984733323264";
+    private static final String ENDPOINT_ID = "YOURIDFORENDPOINTS";
 
     private final PredictionServiceClient predictionServiceClient;
     private final EndpointName endpointName;
