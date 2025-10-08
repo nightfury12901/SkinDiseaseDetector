@@ -257,9 +257,6 @@ Please ensure:
 - Documentation is updated
 - No sensitive credentials are committed
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
