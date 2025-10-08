@@ -1,0 +1,10 @@
+com\healthcare\skindetector\gui\PatientHistoryGUI.class
+com\healthcare\skindetector\gui\MainGUI$1.class
+com\healthcare\skindetector\gui\MainGUI$2.class
+com\healthcare\skindetector\SkinDiseaseDetectorApp.class
+com\healthcare\skindetector\vertexai\VertexAIPredictor.class
+com\healthcare\skindetector\gui\MainGUI.class
+com\healthcare\skindetector\models\Diagnosis.class
+com\healthcare\skindetector\models\Patient.class
+com\healthcare\skindetector\utils\ImageUtils.class
+com\healthcare\skindetector\database\DatabaseManager.class

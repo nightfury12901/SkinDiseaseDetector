@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ace-bucksaw-469016-v2",
+  "private_key_id": "c3ad7eaadafca9d7faf40c956a5201b59051a4e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwzAuxlfZCqP9l\nxN/p4VH6BI4OVEy/1thqS8Bfuyy0R4495U6MUb/q+qPxDC4ep8Xpue3SLlEiOuQW\n2wgZ3GrAv1JikG7KIOSQl5Zl4NeeKvT72urhCJYSMqt4pKoNfdOVMUFZehdSalw8\nVEB+6DKVR0VT7xcwEmJ5aeXAk2buMqppDIwzXe+yTOoVjUggIpX8z7PZHlliT5FM\nFom6pXmviIxM/Uu+AxDfSBfX26MdMkQBbvP/be0UkHsFfoRoJw0yS09GHQMGVana\nhzyVK+hqy/+ogC4bR9nJgHLhsPI8fKvaRHyVohD2rCCrzzISM4DfbtuWhR497DRc\nWgoIX/K1AgMBAAECggEAAXPtlR3mQH/7sU4RpPxEBzDxR67dcF95DHk8cVssE23Z\nxX/GH5TZSXNhKbthjvnSMjOc1QhVEpLTwwL8qUcTpJ0t4D96C19m76jNdl9Ohkup\noUX703jq7JHNzdCNe9wCgzcD2XZ/ReY32rW6iJ6qwDDYvnHxF9bQnXWyGRYHrNdq\ndr7V1LlB1+70FLl5vHyRDdsDyUG2UCJaE8KN9Iqe39nYlRyukLxjWeVLt66CK04H\nzEmcpxZ3Bk7Z4tOGkC2jnoZWXB6HQiiDcvpn89k4NMLA2QOoYFSwP5mJvwMiQO96\nlXFGyTnbdZpTYnI1xbnLafreN5osr6MYRmxeoGNnIQKBgQDjBlhZCi8nQtGpvfKn\nWLLxFTa9O7nTTCPRshbB0ydHGipYiUV7WBSJt7JQOtMCIlbTCBvtEtYtnobt5ur9\nUPS3xHYlPpixYWYB+M8kGKjOSbKp85OACkfFPOiHJSV/cPt6hCVfWI3eF1XkGgTe\niEp64urjBC64nUsqmFqHh3Sy7QKBgQDHXJfu67cznVEY4hZr4BAbVEKsb/96zd3M\nA1TKtfEWGkfdvzVn4zvcvYoh/hupJkhnr4Dz5Ql14/Q6Flo/j09fi24st5s4VfqQ\naK4y/BZGWIW9wmqeiz0tZOyhy92cEHOH1XmV19dl/bPiu2QTc0yshG+Yih+K2MVq\n3Ao1MK1d6QKBgQDAuFgzbfPNbmmxoK/m4+MzyQBo79S1zILztiyfaXKEZ2/fLNiw\n9nqo1iom9Wi+/QubpdyfCkiK/XIpbse5NwonHj31LAhPPBFuRxsA13YleGaU41Mp\ndJCsnSH/58bHQtAYlylqoS/9gu3E71mG10fyvcML6DcJPW3bwO3I83JbmQKBgQCG\n3zSGVX+Wcpp3vBSxHF+pLYMBx69ONFIWADbwANC+RD9UXFRUGR3Zg30c7B1ofNbF\nFq2l0tBoqjQCzDZ4A4sON3Ts2bYwEbK22aroITUsmBy6uPmKkuZrfHi+KP6e415V\nie18mw5FGLMG9AGLSxiXKe2Zg/A87dP5LC3XuDvBaQKBgBirWKzmezn48NoAxd7i\nRzl0Hw/kt5AfM+nkeMHQ0NjUHbs8jpOATBiCKi4wMwTGjqe2OThCOOEVyuteXvgC\nTnHqubXzXM6j37+pK2UvoL+C+EYSe08hnPPkZV9JPubjL1G1fcK0TjM8V286Ffna\nsa7urNncRT2xYspE0+o2ckJo\n-----END PRIVATE KEY-----\n",
+  "client_email": "skin-disease-app@ace-bucksaw-469016-v2.iam.gserviceaccount.com",
+  "client_id": "105146614718813627198",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skin-disease-app%40ace-bucksaw-469016-v2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
